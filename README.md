@@ -22,6 +22,8 @@ Tech Stack: HTML, CSS, JavaScript
 A creative, mobile-friendly landing page with clean layout, call-to-action sections, and smooth navigation.
 Tech Stack: HTML, CSS
 <img width="1905" height="920" alt="image" src="https://github.com/user-attachments/assets/a15c2874-4634-4618-8475-32e58b4cfde4" />
+<img width="1905" height="918" alt="image" src="https://github.com/user-attachments/assets/8b9f5ac0-401d-4114-a72d-a1393a66d1b5" />
+
 
 3️⃣ **Calculator**
 A functional calculator capable of performing basic arithmetic operations.
